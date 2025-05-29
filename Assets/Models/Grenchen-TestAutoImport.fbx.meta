@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 7a54e3a10813e4e49aefc28a53127fc4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2593-1222_2_2056
+    second: {fileID: 2800000, guid: 39f3b1838d64f4243b11f55d62fe6d12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2593-1223_2_2056
+    second: {fileID: 2800000, guid: 5792375abeeb76942bb8d1399ed087ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2593-1224_2_2056
+    second: {fileID: 2800000, guid: 0b39e5243837dd148be09fadd95c54c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2593-1225_2_2056
+    second: {fileID: 2800000, guid: 67000a779c35bf446881f52152a98127, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2593-1226_2_2056
+    second: {fileID: 2800000, guid: f168ef9a96cdaf24a89f6104dd3581ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2593-1227_2_2056
+    second: {fileID: 2800000, guid: 5922db7bd2a84b546a02de43a5f00651, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2593-1228_2_2056
+    second: {fileID: 2800000, guid: 29cfefb1f9874644fbac817dc4c481e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2593-1229_2_2056
+    second: {fileID: 2800000, guid: 740be1e7d01823146ad9c53d78280942, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2593-1230_2_2056
+    second: {fileID: 2800000, guid: 8df89e0071a663c4a94164b7732cf7cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2594-1222_2_2056
+    second: {fileID: 2800000, guid: 289af684092d44a45bcc7ec79a406f92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2594-1223_2_2056
+    second: {fileID: 2800000, guid: 2f3b85024520f0544acbe563eb34d7ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2594-1224_2_2056
+    second: {fileID: 2800000, guid: 7a118e19dfbf0c54d8d5ab8378844014, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2594-1225_2_2056
+    second: {fileID: 2800000, guid: a1e0bfbc27797b44d89f95140eb36ed3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2594-1226_2_2056
+    second: {fileID: 2800000, guid: ebc4657e6edc923428515c1e343f0d9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2594-1227_2_2056
+    second: {fileID: 2800000, guid: f3f2e6ced2d27d74897b8afa69ad0b66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2594-1228_2_2056
+    second: {fileID: 2800000, guid: 988d45181a7291a428dd5f7ecb32d005, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2594-1229_2_2056
+    second: {fileID: 2800000, guid: 435a0f7bf25f6f04390480191e3b247c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2594-1230_2_2056
+    second: {fileID: 2800000, guid: 12c793aed7a99a547be950738db8c10d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2595-1222_2_2056
+    second: {fileID: 2800000, guid: 4ce254cdc58ae2b40b795fa0ee474cdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2595-1223_2_2056
+    second: {fileID: 2800000, guid: b5d28343b02d28d4496177e9b4ed0c82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2595-1224_2_2056
+    second: {fileID: 2800000, guid: 0aa148285f51b484b9e022426e234c76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2595-1225_2_2056
+    second: {fileID: 2800000, guid: 0287ff35f23b83b4c9c468954300e208, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2595-1226_2_2056
+    second: {fileID: 2800000, guid: 5afc2a40cc4bb044d9cff785757789d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2595-1227_2_2056
+    second: {fileID: 2800000, guid: eb904ee0de4e5bf45a38efb4e129e420, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2595-1228_2_2056
+    second: {fileID: 2800000, guid: 7b12f2d8f63323f45ae45c18daac8198, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2595-1229_2_2056
+    second: {fileID: 2800000, guid: 7c1b8dae5386e5447af50febf0c413a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2595-1230_2_2056
+    second: {fileID: 2800000, guid: 8939eb2e2c739094db226c2920e6eb42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2596-1222_2_2056
+    second: {fileID: 2800000, guid: db21a57705efc304d910bf162f892e6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2596-1223_2_2056
+    second: {fileID: 2800000, guid: 7106604f24447e04ba413d021e6917d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2596-1224_2_2056
+    second: {fileID: 2800000, guid: 6d366ad40bb00e04f82fa5093dd553ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2596-1225_2_2056
+    second: {fileID: 2800000, guid: 9d82a511bccb2d7469b90238e98b9fdf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2596-1226_2_2056
+    second: {fileID: 2800000, guid: 182222dcf49e6004da2ef7e695d9785f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2596-1227_2_2056
+    second: {fileID: 2800000, guid: f88761e1ee438f24485bc721d6dc3ee0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2596-1228_2_2056
+    second: {fileID: 2800000, guid: e7df1d7084b471748adcc0c9eeb41b5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2596-1229_2_2056
+    second: {fileID: 2800000, guid: 9cc2189c726ae9145a37640a0756bca3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2596-1230_2_2056
+    second: {fileID: 2800000, guid: a494476e7b4ec4849a888e75fa660212, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2597-1222_2_2056
+    second: {fileID: 2800000, guid: e9055c1e8409b2e46a92cbc294180c34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2597-1223_2_2056
+    second: {fileID: 2800000, guid: c38d7f9098691b844b8992474001d0f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2597-1224_2_2056
+    second: {fileID: 2800000, guid: 9d06435684c51be4db2778943602b186, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2597-1225_0.1_2056
+    second: {fileID: 2800000, guid: bae8364df22f1f848a68ff2409f428ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2597-1226_2_2056
+    second: {fileID: 2800000, guid: 2d716644d67775042b554cc688eaebd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2597-1227_2_2056
+    second: {fileID: 2800000, guid: a1e9801213ee7674b917e31eff0abf06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2597-1228_2_2056
+    second: {fileID: 2800000, guid: bb88cab21cc96114aa690c8ebbba08eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2597-1229_2_2056
+    second: {fileID: 2800000, guid: ed835ae2627c5f146a001abd482f175c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2597-1230_2_2056
+    second: {fileID: 2800000, guid: c46f0d68a4b24334c868f2536a4458cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2598-1222_2_2056
+    second: {fileID: 2800000, guid: 89dd6a8841d15bc42a6439215a208c15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2598-1223_2_2056
+    second: {fileID: 2800000, guid: 339dfd47c1878844b973456629d16fde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2598-1224_2_2056
+    second: {fileID: 2800000, guid: 8455ef7225a19bc498ddfd8e4343a39b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2598-1225_0.1_2056
+    second: {fileID: 2800000, guid: 10a179d5b76ff344e8ffaed912cf32d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2598-1226_2_2056
+    second: {fileID: 2800000, guid: 8e64d98ded4346445b3d7dd0105e803d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2598-1227_2_2056
+    second: {fileID: 2800000, guid: 7a8d217d5ed1983459d12bf0159186cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2598-1228_2_2056
+    second: {fileID: 2800000, guid: 72fb5eb7fb14d0941bcd5aeb500f2efe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2598-1229_2_2056
+    second: {fileID: 2800000, guid: 31006ac2a789de240a8edf8ddd9f1437, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2598-1230_2_2056
+    second: {fileID: 2800000, guid: 6ccea603f251fd04daebe681f16330e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2599-1222_2_2056
+    second: {fileID: 2800000, guid: a8171172ee3dce749a2a2a0e005a3fd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2599-1223_2_2056
+    second: {fileID: 2800000, guid: d0de734ec73f6fa459a04f3cd244f8ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2599-1224_2_2056
+    second: {fileID: 2800000, guid: ff7ad0b734fc32747bf55afc4dc06b7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2599-1225_2_2056
+    second: {fileID: 2800000, guid: 5208898e675443f41ba1ae79302397dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2599-1226_2_2056
+    second: {fileID: 2800000, guid: 6a2f9f50a941acd409912abe6cb3ee5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2599-1227_2_2056
+    second: {fileID: 2800000, guid: 4540d53d1927a014a877ea2d6b986a63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2599-1228_2_2056
+    second: {fileID: 2800000, guid: 6a3949c9348a6434eb96df3fc3b9904d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2599-1229_2_2056
+    second: {fileID: 2800000, guid: 1687965ff0aa50541b4014baed252831, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2599-1230_2_2056
+    second: {fileID: 2800000, guid: a67f9b34a01c33a42b436da1e0993317, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2600-1222_2_2056
+    second: {fileID: 2800000, guid: 16a3986430abb334e83291bade85393c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2600-1223_2_2056
+    second: {fileID: 2800000, guid: 0608ffbe1ad580f4198c0fc163fee9b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2600-1224_2_2056
+    second: {fileID: 2800000, guid: 2954b8c1c691f4f488319a6a347e8dde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2600-1225_2_2056
+    second: {fileID: 2800000, guid: 834cdac1ecd8c20409f5a0d4a665e5be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2600-1226_2_2056
+    second: {fileID: 2800000, guid: a8fa3333fca112e49b9aa01e0317d4a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2600-1227_2_2056
+    second: {fileID: 2800000, guid: 3f457bec4d7213b4bb3e989f747d9fd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2600-1228_2_2056
+    second: {fileID: 2800000, guid: e7ad2be6996ae4c4b805809afd653e20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2600-1229_2_2056
+    second: {fileID: 2800000, guid: 0c9b1ade5bccae94ca6fdb5f6108664d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2600-1230_2_2056
+    second: {fileID: 2800000, guid: 39cbd9064c872b240a5271ee52e576e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2601-1222_2_2056
+    second: {fileID: 2800000, guid: 3a90dbc50ba0b2e4ab0e6e7ddac9b8c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2601-1223_2_2056
+    second: {fileID: 2800000, guid: b11e5cb363d5fde4a8331e30a9935dcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2601-1224_2_2056
+    second: {fileID: 2800000, guid: 432213e567bf71846b82513719895816, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2601-1225_2_2056
+    second: {fileID: 2800000, guid: 3237cd2a026f0194fb0e42b469c63cf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2601-1226_2_2056
+    second: {fileID: 2800000, guid: 2eb682af5a8b9d340948bc97b85bed97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2601-1227_2_2056
+    second: {fileID: 2800000, guid: ba3bf80f678d6b046ada4fed576b74ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2601-1228_2_2056
+    second: {fileID: 2800000, guid: 4cf0da77ac8565d4abd36fce24eb3d7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2601-1229_2_2056
+    second: {fileID: 2800000, guid: 4564a277eb8015547a5d5c5c66c519cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2601-1230_2_2056
+    second: {fileID: 2800000, guid: 631469ad523a1594c84a376a8f6fa196, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2602-1222_2_2056
+    second: {fileID: 2800000, guid: 73c3546bc114bc84e8ba2d717d7d57aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2602-1223_2_2056
+    second: {fileID: 2800000, guid: f8ab50450fca78c4cb95d737a2050504, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2602-1224_2_2056
+    second: {fileID: 2800000, guid: f47ddaa7e244b754abf554bd857070f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2602-1225_2_2056
+    second: {fileID: 2800000, guid: 24b2cf0bb3bd1444187b6bb7a57fb492, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2602-1226_2_2056
+    second: {fileID: 2800000, guid: 56a31f74be2b5cc4babbb63c9a937668, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2602-1227_2_2056
+    second: {fileID: 2800000, guid: 2c7d8c3537f4c394e975f781f6c9ce59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2602-1228_2_2056
+    second: {fileID: 2800000, guid: b0ae760a1afa35c4dbfab04f174c072a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2602-1229_2_2056
+    second: {fileID: 2800000, guid: 9ecaf92d0484dff4fb1b0649a7d4ada7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2602-1230_2_2056
+    second: {fileID: 2800000, guid: 4a06bc450bf1cd84c9e22d9e0c6cd43b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2603-1222_2_2056
+    second: {fileID: 2800000, guid: 96d9fc05dd4df9842be5e45172a9554d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2603-1223_2_2056
+    second: {fileID: 2800000, guid: 86ec4608da2ac5140ae618d762c80887, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2603-1224_2_2056
+    second: {fileID: 2800000, guid: d5e72ca78cfd4294ab71b66e04d6629d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2603-1225_2_2056
+    second: {fileID: 2800000, guid: c7d8e7d4f6068b44daca2cc9c5ce8c94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2603-1226_2_2056
+    second: {fileID: 2800000, guid: 5496825d2e8770e4c868f0f2cddbb27a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2603-1227_2_2056
+    second: {fileID: 2800000, guid: c9411598df8fe7b429b933be110c8513, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2603-1228_2_2056
+    second: {fileID: 2800000, guid: 3f98d3add68e5634cad799875ffa1e45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2603-1229_2_2056
+    second: {fileID: 2800000, guid: d6a18999523624847851c99eaae84ecd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2603-1230_2_2056
+    second: {fileID: 2800000, guid: 058649178ef6cc84ea505e6d8e2832c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2604-1222_2_2056
+    second: {fileID: 2800000, guid: 59d8774945edb3d44be55ad8c2c15d67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2604-1223_2_2056
+    second: {fileID: 2800000, guid: 6705dc264fc0f804aa8d2baaf20f2819, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2604-1224_2_2056
+    second: {fileID: 2800000, guid: 28cb6a8fa8daf3b44a26724464b8e454, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2604-1225_2_2056
+    second: {fileID: 2800000, guid: 0accdd26426045947b22b039d9cdb238, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2604-1226_2_2056
+    second: {fileID: 2800000, guid: d474692cdaafa7a4598193b06b251c94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2604-1227_2_2056
+    second: {fileID: 2800000, guid: 343c488a7b2ebd1478942e55ee5b8387, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2604-1228_2_2056
+    second: {fileID: 2800000, guid: ef0b8a26fab4764448ced2b4b396042f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2604-1229_2_2056
+    second: {fileID: 2800000, guid: c2985b2697a65dc43ac0a0148d12bbd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2604-1230_2_2056
+    second: {fileID: 2800000, guid: 9f5deb109c6100e488e466ad405c2022, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2605-1222_2_2056
+    second: {fileID: 2800000, guid: 609ec7e7b35708f4ca2e269c95959db8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2605-1223_2_2056
+    second: {fileID: 2800000, guid: 3e3398aae67d4e1498eb0479595250d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2605-1224_2_2056
+    second: {fileID: 2800000, guid: 341eda892dd391049b14a2e8e8a7f64e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2605-1225_2_2056
+    second: {fileID: 2800000, guid: 9628dcdf65983bf448649a9ef0aef4ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2605-1226_2_2056
+    second: {fileID: 2800000, guid: 3ee25d33bc5a2914c99a68ba932518e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2605-1227_2_2056
+    second: {fileID: 2800000, guid: 7bd69f11eb99dc64bad81443871519c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2605-1228_2_2056
+    second: {fileID: 2800000, guid: 03c64255009acf14fb3adfa97928dbe5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2605-1229_2_2056
+    second: {fileID: 2800000, guid: 95dae72685ea7a6459e1cd1fc7e4753b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2605-1230_2_2056
+    second: {fileID: 2800000, guid: c40a4a93e5cd5a24f8d186c3722689a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2606-1222_2_2056
+    second: {fileID: 2800000, guid: 3eace191be43c3d458e1e9e2a5869cad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2606-1223_2_2056
+    second: {fileID: 2800000, guid: 82e40d17849638a4eb126529df60e5db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2606-1224_2_2056
+    second: {fileID: 2800000, guid: bd065cafced4f514db65da6f58b525be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2606-1225_2_2056
+    second: {fileID: 2800000, guid: 944c153f99a14c34d85509c6baedbb17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2606-1226_2_2056
+    second: {fileID: 2800000, guid: e9e34fd82cf0eb44084f9cf46b19c5fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2606-1227_2_2056
+    second: {fileID: 2800000, guid: 9eaf9b4c9a2b9e540acab4941291a41e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2606-1228_2_2056
+    second: {fileID: 2800000, guid: d69f3921a59d92d4e96bfeb05c9542b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2606-1229_2_2056
+    second: {fileID: 2800000, guid: f19c1e4b8cd6b2f48aec15ec09cc58ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: swissimage-dop10_2024_2606-1230_2_2056
+    second: {fileID: 2800000, guid: 1f2ca4a396064bc4c96fcc2f6f6d671e, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

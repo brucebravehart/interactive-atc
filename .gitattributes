@@ -1,0 +1,4 @@
+*swissimage-dop10_2024_2597-1225_0.1_2056.tif filter=lfs diff=lfs merge=lfs -text
+*Grenchen-TestAutoImport.fbx filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
